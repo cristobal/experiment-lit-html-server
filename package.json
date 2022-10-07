@@ -1,0 +1,17 @@
+{
+  "name": "experiment-lit-html-server",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "perf": "node perf.js",
+    "perf:unsafe": "node perf.js unsafe"
+  },
+  "homepage": "https://github.com/cristobal/experiment-lit-html-server#readme",
+  "dependencies": {
+    "@popeindustries/lit": "1.1.2",
+    "autocannon": "7.10.0",
+    "lit": "2.4.0"
+  }
+}
