@@ -2,9 +2,9 @@
 *__ARCHIVED!__*
 -----
 
-# experiment-lit-html-server-21
+# experiment-lit-html-server-v1.1.2
 
-Testing out @popeindustries/lit, and recreating crash.
+Testing out `@popeindustries/lit@1.1.2, and recreating crash.
 
 ## The issue
 
